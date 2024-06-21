@@ -24,6 +24,8 @@ if r.status_code == 200:
     print(f'Result type is: {(type(result))}')
     print(list_valutes)
     print(type(list_valutes))
+    #циклы написать
+
 
 
 
